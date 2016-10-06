@@ -1,7 +1,7 @@
 # ReactJs-RedditSwipe
 Swipe cards viewer for image related subreddits
 
-![Alt text](./iangry-ui.jpg?raw=true "Optional Title")
+![Alt text](./img/iangry-ui.jpg?raw=true "Optional Title")
 
 #Objective
 Create an app that connects to reddits server, gets image links for desired subreddit, parses the direct link and displays them in card format.
